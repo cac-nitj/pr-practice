@@ -8,7 +8,7 @@ Use this format
 ## A
 - [Aditya Prakash Padhi](https://github.com/watashi-wa-aditya)
 - [Amanjot Singh Batth](https://github.com/ajbatth)
-- 
+- [Arpit Jha](https://github.com/Arpit-Jha)
 
 ## B
 
@@ -21,7 +21,10 @@ Use this format
 ## F
 
 ## G
+
 - [Gaurav Kumar](https://github.com/itsKiranay)
+- [Gaurav Goyal](https://github.com/GauravGoyal-123)
+
 
 ## H
 
@@ -49,7 +52,11 @@ Use this format
 
 ## S
 - [Shubham Kukreti](https://github.com/KukretiShubham)
+
+- [Sakshi Bhatia](https://github.com/sakshi79)
+
 - [Shubham Kukreti](https://github.com/KukretiShubham)
+
 
 ## T
 

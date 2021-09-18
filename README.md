@@ -39,6 +39,7 @@ Use this format
 ## O
 
 ## P
+[Pragati Gupta](https://github.com/Pragati2402)
 
 ## Q
 

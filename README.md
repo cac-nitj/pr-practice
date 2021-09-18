@@ -7,10 +7,10 @@ Use this format
 
 ## A
 - [Aditya Prakash Padhi](https://github.com/watashi-wa-aditya)
+- [Anshu Misra](https://github.com/anshumisra)
 - [Akshat Ydav](https://github.com/Akshat1202)
 - [Amanjot Singh Batth](https://github.com/ajbatth)
 - [Arpit Jha](https://github.com/Arpit-Jha)
-
 ## B
 
 ## C

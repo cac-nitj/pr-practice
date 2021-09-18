@@ -52,10 +52,7 @@ Use this format
 ## S
 - [Sakshi Bhatia](https://github.com/sakshi79)
 - [Shubham Kukreti](https://github.com/KukretiShubham)
-- [Shubham Kukreti](https://github.com/KukretiShubham)
-
-- [Shubham Kukreti](https://github.com/KukretiShubham)
-## T
+- 
 
 ## U
 

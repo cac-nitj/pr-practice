@@ -8,6 +8,8 @@ Use this format
 ## A
 - [Aditya Prakash Padhi](https://github.com/watashi-wa-aditya)
 - [Akshat Ydav](https://github.com/Akshat1202)
+- [Amanjot Singh Batth](https://github.com/ajbatth)
+- [Arpit Jha](https://github.com/Arpit-Jha)
 
 ## B
 
@@ -21,6 +23,10 @@ Use this format
 
 ## G
 
+- [Gaurav Kumar](https://github.com/itsKiranay)
+- [Gaurav Goyal](https://github.com/GauravGoyal-123)
+
+
 ## H
 
 ## I
@@ -32,13 +38,14 @@ Use this format
 ## L
 
 ## M
-
+- [munnao912](https://github.com/munna0912)
 ## N
 [Nitesh Yadav](https://github.com/Nitesh2905)
 
 ## O
 
 ## P
+[Prakhar Mishra](https://github.com/prakhar3062)
 
 ## Q
 
@@ -46,6 +53,11 @@ Use this format
 
 ## S
 - [Shubham Kukreti](https://github.com/KukretiShubham)
+
+- [Sakshi Bhatia](https://github.com/sakshi79)
+
+- [Shubham Kukreti](https://github.com/KukretiShubham)
+
 
 ## T
 
@@ -60,3 +72,4 @@ Use this format
 ## Y
 
 ## Z
+-

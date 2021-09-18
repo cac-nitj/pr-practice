@@ -7,6 +7,7 @@ Use this format
 
 ## A
 - [Aditya Prakash Padhi](https://github.com/watashi-wa-aditya)
+- [Amanjot Singh Batth](https://github.com/ajbatth)
 - 
 
 ## B
@@ -33,7 +34,7 @@ Use this format
 ## L
 
 ## M
-
+- [munnao912](https://github.com/munna0912)
 ## N
 [Nitesh Yadav](https://github.com/Nitesh2905)
 
@@ -46,6 +47,7 @@ Use this format
 ## R
 
 ## S
+- [Shubham Kukreti](https://github.com/KukretiShubham)
 - [Shubham Kukreti](https://github.com/KukretiShubham)
 
 ## T

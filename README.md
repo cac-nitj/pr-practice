@@ -49,7 +49,11 @@ Use this format
 
 ## S
 - [Shubham Kukreti](https://github.com/KukretiShubham)
+
+- [Sakshi Bhatia](https://github.com/sakshi79)
+
 - [Shubham Kukreti](https://github.com/KukretiShubham)
+
 
 ## T
 

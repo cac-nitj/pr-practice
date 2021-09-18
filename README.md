@@ -7,7 +7,7 @@ Use this format
 
 ## A
 - [Aditya Prakash Padhi](https://github.com/watashi-wa-aditya)
-- 
+- [Anshu Misra](https://github.com/anshumisra)
 
 ## B
 

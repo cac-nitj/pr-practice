@@ -11,7 +11,7 @@ Use this format
 - 
 
 ## B
--[BOYA MANOJ] (https://github.com/manoj-boya)
+-[BOYA MANOJ](https://github.com/manoj-boya)
 
 ## C
 

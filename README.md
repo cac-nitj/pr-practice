@@ -12,6 +12,7 @@ Use this format
 - [Anshu Misra](https://github.com/anshumisra)
 - [Arpit Jha](https://github.com/Arpit-Jha)
 ## B
+-[BOYA MANOJ](https://github.com/manoj-boya)
 
 ## C
 
